@@ -8,8 +8,9 @@
 <p align="left"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pujan%20Pandey&fontSize=50&fontColor=fff&animation=fadeIn" alt="pujanpandey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pujanpandey" alt="pujanpandey" /></a> </p>
+<img align="right" alt="Quantum Coding" width="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-<a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="pujanpandey" /></a> </p>
+
 - 📫 How to reach me **pujanpandey012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
