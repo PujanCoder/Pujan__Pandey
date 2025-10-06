@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pujanpandey" alt="pujanpandey" /></a> </p>
 
-<img align="right" alt="Quantum Code" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+<img align="right" alt="Quantum Data" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV1eWIyc3Uwc2E4NG10ZTV2ZjJlYW9oamVhc3N0eGV5amN1ZnM2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKrQqgVj2yDWUre/giphy.gif">
 
 - 📫 How to reach me **pujanpandey012@gmail.com**
 
