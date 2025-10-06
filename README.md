@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist and Quantum Computer from Nepal.</h3>
 
 
-<h3 align="center">A passionate Qiskit Advocate , Continuously contributing as Qiskit Advocate in IBM Quantum</h3>
+<h3 align="center">Qiskit Advocate , Continuously contributing as Qiskit Advocate in IBM Quantum</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujanpandey&label=Profile%20views&color=0e75b6&style=flat" alt="pujanpandey" /> </p>
