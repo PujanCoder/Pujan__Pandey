@@ -3,6 +3,7 @@
 
 
 <h3 align="center">Qiskit Advocate , Continuously contributing as Qiskit Advocate in IBM Quantum</h3>
+<img align="right" alt="Developer" width="400" src="https://i.gifer.com/7cW.gif">
 
 
 <p align="left"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pujan%20Pandey&fontSize=50&fontColor=fff&animation=fadeIn" alt="pujanpandey" /> </p>
