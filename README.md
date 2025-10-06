@@ -5,8 +5,8 @@
 <h3 align="center">Qiskit Advocate , Continuously contributing as Qiskit Advocate in IBM Quantum</h3>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pujan%20Pandey&fontSize=50&fontColor=fff&animation=fadeIn)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pujanpandey&label=Profile%20views&color=0e75b6&style=flat" alt="pujanpandey" /> </p>
+<a href="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pujan%20Pandey&fontSize=50&fontColor=fff&animation=fadeIn"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="pujanpandey" /></a> </p>
+<p align="left"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pujan%20Pandey&fontSize=50&fontColor=fff&animation=fadeIn" alt="pujanpandey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pujanpandey" alt="pujanpandey" /></a> </p>
 
